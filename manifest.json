@@ -6,10 +6,10 @@
     "notes": "תיקון: עדכוני ממשק מותקנים מתוך האפליקציה; ליד בלי אחראי מוצג עם סמל; אין התראה על ליד שהוספת בעצמך"
   },
   "web": {
-    "version": "1.2.2",
-    "url": "https://github.com/code-fish11/crm-haadam-app-releases/releases/download/v1.2.2/web-1.2.2.zip",
+    "version": "1.2.3",
+    "url": "https://github.com/code-fish11/crm-haadam-app-releases/releases/download/web-1.2.3/web-1.2.3.zip",
     "minNativeCode": 4,
-    "checksum": "97d3ba7eef02ff1f858cc6973fb9f0d356efa2f202b13c5107f640e0a762fb38",
-    "notes": "תיקון: עדכוני ממשק מותקנים מתוך האפליקציה; ליד בלי אחראי מוצג עם סמל; אין התראה על ליד שהוספת בעצמך"
+    "checksum": "e92e3e8357a1e7822a3f9645dea43029c70c18c3bbe6c657a0f1d737367e7036",
+    "notes": "בדיקת עדכון ממשק מתוך האפליקציה"
   }
 }
