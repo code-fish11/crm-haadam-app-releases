@@ -6,9 +6,9 @@
     "notes": "תיקון: המקלדת כבר לא מסתירה את שדה הסיסמה ושדות אחרים"
   },
   "web": {
-    "version": "1.2.0",
-    "url": "https://github.com/code-fish11/crm-haadam-app-releases/releases/download/v1.2.0/web-1.2.0.zip",
+    "version": "1.2.1",
+    "url": "https://github.com/code-fish11/crm-haadam-app-releases/releases/download/web-1.2.1/web-1.2.1.zip",
     "minNativeCode": 3,
-    "notes": "תיקון: המקלדת כבר לא מסתירה את שדה הסיסמה ושדות אחרים"
+    "notes": "ליד בלי אחראי מוצג עם סמל במקום אותיות; אין התראת ליד חדש על ליד שהוספת בעצמך"
   }
 }
