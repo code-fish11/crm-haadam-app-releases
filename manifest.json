@@ -1,14 +1,14 @@
 {
   "native": {
-    "versionCode": 2,
-    "versionName": "1.1.0",
-    "url": "https://github.com/code-fish11/crm-haadam-app-releases/releases/download/v1.1.0/CRM-HaAdam-HeChadash.apk",
-    "notes": "לחצן בדיקת עדכונים: מעכשיו האפליקציה מתעדכנת לבד. תיקון בכניסה כמנהל."
+    "versionCode": 3,
+    "versionName": "1.2.0",
+    "url": "https://github.com/code-fish11/crm-haadam-app-releases/releases/download/v1.2.0/CRM-HaAdam-HeChadash.apk",
+    "notes": "תיקון: המקלדת כבר לא מסתירה את שדה הסיסמה ושדות אחרים"
   },
   "web": {
-    "version": "1.1.0",
-    "url": "https://github.com/code-fish11/crm-haadam-app-releases/releases/download/v1.1.0/web-1.1.0.zip",
-    "minNativeCode": 2,
-    "notes": "לחצן בדיקת עדכונים: מעכשיו האפליקציה מתעדכנת לבד. תיקון בכניסה כמנהל."
+    "version": "1.2.0",
+    "url": "https://github.com/code-fish11/crm-haadam-app-releases/releases/download/v1.2.0/web-1.2.0.zip",
+    "minNativeCode": 3,
+    "notes": "תיקון: המקלדת כבר לא מסתירה את שדה הסיסמה ושדות אחרים"
   }
 }
